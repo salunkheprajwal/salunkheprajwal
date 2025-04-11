@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **salunkheprajwal51@gmail.com**
+- 📫 How to reach me **salunkheprajwal51@gmail.com | +91 9356611733**
 <p align="left">
 </p>
 
