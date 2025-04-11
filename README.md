@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajwal Sanjay Salunkhe</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 💬 Ask me about **react,nextjs**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **salunkheprajwal51@gmail.com**
 
